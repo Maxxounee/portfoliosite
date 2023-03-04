@@ -1,0 +1,95 @@
+{
+  "EN": {
+    "header": {
+      "home": "Home",
+      "about": "About",
+      "skills": "Skills",
+      "portfolio": "Portfolio",
+      "contacts": "Contacts"
+    },
+    "welcome": {
+      "name": "Vladimirov<br>Maxim",
+      "about": "Frontend | Backend<br>engineer <br> 27 y.o., Moscow",
+      "tip": "Looking to a bright future"
+    },
+    "about": {
+      "title": "About me",
+      "text1": "Hello, my name is Maxim and I'm a developer<br>I like to create beautiful and useful apps",
+      "text2": "I independently study technologies related<br>to website development, including back-end and front-end",
+      "text3": "My dream is to work on great projects<br>with great people",
+      "tip": "Don't forget to destroy some invaders"
+    },
+    "skills": {
+      "title": "Skills",
+      "text": "My tech stack",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "other": "Other skills",
+      "text1": "I'm building a SPA using VUE.js for the frontend and node.js for the backend. I work with various APIs, understand the documentation in English.",
+      "text2": "In layout, I adhere to the BEM methodology and the principle of adaptive layout with media queries, as well as use gulp and the SASS preprocessor.",
+      "text3": "I assemble the server part using express and follow the REST Api. I work with SQL and NoSQL databases. I use Docker and Git to interact with the team. Also familiar with Python and Django syntax"
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "smallapps": "Small apps - Homepage"
+    },
+    "contacts": {
+      "title": "Contacts",
+      "text": "You can send me a message on Telegram using the form below and I will definitely answer you",
+      "send": "Send message",
+      "footer": "Text me on<br>Github, Telegram, Instagram",
+      "tip": "Message will be sent to Telegram"
+    }
+  },
+  "RU": {
+    "header": {
+      "home": "Главная",
+      "about": "Обо мне",
+      "skills": "Навыки",
+      "portfolio": "Работы",
+      "contacts": "Контакты"
+    },
+    "welcome": {
+      "name": "Владимиров<br>Максим",
+      "about": "Фронтенд | Бэкенд<br>разработчик<br>27 лет, Москва",
+      "tip": "Смотрю в светлое будущее"
+    },
+    "about": {
+      "title": "Обо мне",
+      "text1": "Привет, меня зовут Максим и я разработчик.<br>Мне нравится создавать полезные приложения",
+      "text2": "Самостоятельно изучаю технологии, связанные<br>с разработкой сайтов, включая бэкенд и фронтенд",
+      "text3": "Мечтаю работать над отличными проектами<br>с замечательными людьми",
+      "tip": "Не забудь уничтожить пару захватчиков"
+    },
+    "skills": {
+      "title": "Навыки",
+      "text": "Мой стек технологий",
+      "frontend": "Фронтенд",
+      "backend": "Бэкенд",
+      "other": "Другие навыки",
+      "text1": "Создаю SPA, используя VUE.js для фронтенда и node.js для серверной части. Работаю с различными API, разбираюсь в документации на английском языке. ",
+      "text2": "В верстке придерживаюсь методологии БЭМ и принципа адаптивной верстки с медиа запросами, а так же пользуюсь gulp и препроцессором SASS.",
+      "text3": "Серверную часть собираю с помощью express и руководствуюсь REST Api. Работаю с SQL и NoSQL базами данных. Для взаимодействия с командой использую Docker и Git. Так же знаком с синтаксисом Python и Django"
+    },
+    "portfolio": {
+      "title": "Портфолио",
+      "smallapps": "Небольшие приложения"
+    },
+    "contacts": {
+      "title": "Контакты",
+      "text": "Вы можете отправить мне сообщение в Telegram с помощью формы ниже и я вам обязательно отвечу",
+      "send": "Отправить сообщение",
+      "footer": "Свяжитесь со мной:<br>Telegram, Github, Instagram",
+      "tip": "Будет отправлено в Telegram"
+    }
+  },
+  "modal": {
+    "modal_title": "telegram_api — Send message",
+    "modal_name": "your name ~ %",
+    "modal_contacts": "your contacts ~ %",
+    "modal_message": "message ~ %",
+    "modal_send": "Send",
+    "modal_clear": "Clear",
+    "modal_success": "Message sent"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "indexportfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "mitt": "^3.0.0",
+    "typed.js": "^2.0.12",
+    "vue": "^3.2.13",
+    "vue-cookies": "^1.8.2",
+    "vue-router": "^4.1.6",
+    "vue-typed-js": "^0.1.2",
+    "vue-typer": "^1.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "node-sass": "^8.0.0",
+    "sass": "^1.58.0",
+    "sass-loader": "^13.2.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}

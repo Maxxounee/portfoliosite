@@ -1,0 +1,37 @@
+{
+  "EN": {
+    "html": "I'm creating an adaptive layout. I know flex and grid elements. I know the basics of working with forms",
+    "css": "I use the SASS/SCSS preprocessor and BEM methodology",
+    "js": "I work with asynchrony, I know about event Looper, objects, context and closure",
+    "sass": "I'm using SASS/SCSS preprocessor and BEM methodology",
+    "gulp": "I use GULP for minification, font manipulation, SCSS conversion and other automation",
+    "vue": "Understanding reactivity principles. Working with VueRouter",
+    "node": "I work with express and databases",
+    "mysql": "I know the basics of working with MySql",
+    "mongo": "I know the basics of MongoDB",
+    "python": "I know the syntax language and basics of OOP python",
+    "django": "Basic knowledge of the django framework",
+    "console": "Installing packages, reading errors and working with files via console",
+    "git": "commit -m 'learned source control basics'",
+    "figma": "Designing layouts using the figma app",
+    "language": "I can make small talk. Understand the documentation"
+  },
+  "RU": {
+    "html": "Создаю адаптивную верстку. Владею flex и grid. Знаю основы работы с формами",
+    "css": "Использую препроцессор SASS/SCSS и методологию БЭМ",
+    "js": "Работаю с асинхронностью, знаю про eventLooper, объекты, контекст и замыкание",
+    "sass": "Использую препроцессор SASS/SCSS и методологию БЭМ",
+    "gulp": "Использую GULP для минификации, работы со шрифтами, преобразования SCSS и прочей автоматизации",
+    "vue": "Понимаю принципы реактивности, работаю с VueRouter",
+    "node": "Работаю с express и базами данных",
+    "mysql": "Знаю основы работы с MySql",
+    "mongo": "Знаю основы работы с MongoDB",
+    "python": "Знаю синтаксис языка и основы ООП python",
+    "django": "Знаком с азами фреймворка django",
+    "console": "Устанавливаю пакеты, читаю ошибки и работаю с файлами через консоль",
+    "git": "commit -m 'изучил основы работы с системой контроля версий'",
+    "figma": "Верстаю макеты с помощью приложения figma",
+    "photoshop": "фотошоп",
+    "language": "Могу поддержать small talk и понять документацию"
+  }
+}
